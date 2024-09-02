@@ -1,8 +1,8 @@
-name: Invite me to the Huniko team
+name: Invite me to the EliteDevSolution Tech
 
-description: I would like to be part of the awesome Huniko team
+description: I would like to be part of the awesome EliteDevSolution Tech
 
-title: "Please invite me to the Huniko team"
+title: "Please invite me to the EliteDevSolution Tech"
 
 labels: [✉️ github-invitation]
 
@@ -19,7 +19,7 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Huniko team? What do you like about this Huniko team? Why do you want to join?
+      description: Where did you meet EliteDevSolution Tech? What do you like about this EliteDevSolution Tech? Why do you want to join?
       placeholder: I would like to be part of the awesome team
     validations:
       required: false
